@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            display: grid;
+            grid-template-columns: 25% 75%;
+            gap:20px
+        }
+        .grid-item1{
+            background-color: aqua;
+            font-size: 14px;
+            height: 45px;
+            
+        }
+        .grid-item2{
+            background-color: cadetblue;
+            font-size: 14px;
+            height: 45px;
+           
+        }
+        .container {@media screen {
+            display: flex;
+            max-width: 768px;
+            flex-direction: column;
+            ;
+            
+           
+            
+            
+        }}
+            
+        
+        
+            
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="grid-item1">sidebar</div>
+        <div class="grid-item2">main content</div>
+        
+    </div>
+</body>
+</html>
