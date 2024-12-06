@@ -1,2 +1,22 @@
 # -Final-exam-HTML
-This is my html final exam
+This is my html final exam and my registration number is 2024/DSC/0034/ss and the answers for section A is a shown below
+1) a
+2) d
+3) b
+4) c
+5) b
+6) a
+7) a
+8) c
+9) c
+10) c
+11) b
+12) a
+13) b
+14) b
+15) b
+16) a
+17) b
+18) b
+19) b
+20) c
